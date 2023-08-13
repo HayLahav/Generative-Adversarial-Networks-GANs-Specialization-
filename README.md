@@ -32,7 +32,7 @@ Week 2: Conditional GANs and Controllable Generation
 * Explored techniques like auxiliary classifier GANs (ACGAN) for conditional generation.
 * Learned about InfoGAN for disentangled representation learning.
 
-week 3:  GAN Challenges and Future Work
+Week 3:  GAN Challenges and Future Work
 
 * Investigated challenges faced when training GANs, including mode collapse.
 * Explored techniques to address these issues, such as one-sided label smoothing and minibatch discrimination.
