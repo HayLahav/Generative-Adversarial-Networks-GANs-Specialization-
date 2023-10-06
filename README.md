@@ -1,6 +1,10 @@
 # Generative-Adversarial-Networks-GANs-Specialization-
 A Generative Adversarial Networks (GANs) Specialization made by deeplearning.ai on Coursera
 
+![image](https://github.com/HayLahav/Generative-Adversarial-Networks-GANs-Specialization-/assets/111200362/6f797d09-5253-4217-8d7d-c1f8e9130bf0)   ![image](https://github.com/HayLahav/Generative-Adversarial-Networks-GANs-Specialization-/assets/111200362/0fe07274-6c80-43a3-83b8-fbacf97d4362)
+
+
+
 As a student who completed the Generative Adversarial Networks (GANs) Specialization by deeplearning.ai on Coursera, I've gained a comprehensive understanding of GANs and their applications. Throughout the specialization, I learned the following courses:
 
 # Course 1: Build Basic Generative Adversarial Networks (GANs)
@@ -40,10 +44,6 @@ Week 3:  GAN Challenges and Future Work
   
 # Course 3: Apply Generative Adversarial Networks (GANs)
 In this course, I learned about using GANs for various applications beyond image generation. I explored how to generate art, music, and even textual content using GANs. Additionally, I gained an understanding of using GANs for data augmentation and image-to-image translation tasks. Through practical projects, I honed my skills in adapting GANs to different domains and creatively applying them to solve real-world problems.
-
-
-![image](https://github.com/HayLahav/Generative-Adversarial-Networks-GANs-Specialization-/assets/111200362/6f797d09-5253-4217-8d7d-c1f8e9130bf0)   ![image](https://github.com/HayLahav/Generative-Adversarial-Networks-GANs-Specialization-/assets/111200362/0fe07274-6c80-43a3-83b8-fbacf97d4362)
-
 
 Week 1: Art Generation
 
